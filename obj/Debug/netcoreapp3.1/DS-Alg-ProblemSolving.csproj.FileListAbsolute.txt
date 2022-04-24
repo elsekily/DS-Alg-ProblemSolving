@@ -1,0 +1,13 @@
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/bin/Debug/netcoreapp3.1/DS-Alg-ProblemSolving
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/bin/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.deps.json
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/bin/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.runtimeconfig.json
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/bin/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.runtimeconfig.dev.json
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/bin/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.dll
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/bin/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.pdb
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/obj/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.csprojAssemblyReference.cache
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/obj/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.AssemblyInfoInputs.cache
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/obj/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.AssemblyInfo.cs
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/obj/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.csproj.CoreCompileInputs.cache
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/obj/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.dll
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/obj/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.pdb
+/media/elsekily/SSD/Documents/Projects/CSharp/Console/DS-Alg-ProblemSolving/obj/Debug/netcoreapp3.1/DS-Alg-ProblemSolving.genruntimeconfig.cache
