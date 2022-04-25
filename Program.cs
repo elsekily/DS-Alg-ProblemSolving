@@ -1,4 +1,5 @@
 ﻿using System;
+using DS_Alg_ProblemSolving.Leetcode;
 
 namespace DS_Alg_ProblemSolving
 {
@@ -6,7 +7,7 @@ namespace DS_Alg_ProblemSolving
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
