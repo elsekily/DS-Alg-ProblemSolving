@@ -9,5 +9,9 @@ namespace DS_Alg_ProblemSolving.Leetcode.DataType
             this.val = val;
             this.next = next;
         }
+        public override string ToString()
+        {
+            return "Value = " + val;
+        }
     }
 }
