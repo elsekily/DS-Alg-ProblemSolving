@@ -1,5 +1,3 @@
-using System.Net.NetworkInformation;
-
 namespace DS_Alg_ProblemSolving.Leetcode
 {
     public class UniquePaths
@@ -43,7 +41,7 @@ namespace DS_Alg_ProblemSolving.Leetcode
             if (n < 1 || m < 1)
                 return 0;
 
-            dict.Add(s, UniquePathsRecss(m - 1, n) + UniquePathsRecss(m, n - 1));
+            dict.Add(s, UniquePathsUsingString(m - 1, n) + UniquePathsUsingString(m, n - 1));
 
             return dict[s];
         }
